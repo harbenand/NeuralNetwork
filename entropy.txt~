@@ -1,6 +1,0 @@
-Running BackPropagation with the following cost function: Cross Entropy Cost Function
-Learning Rate: 0.3 | Momentum: 0.0 | Hidden Neurons: 100
-Accuracy: 8731/10000
--- org.jblas INFO Deleting /tmp/jblas4609281687557098837/libjblas_arch_flavor.so
--- org.jblas INFO Deleting /tmp/jblas4609281687557098837/libjblas.so
--- org.jblas INFO Deleting /tmp/jblas4609281687557098837
