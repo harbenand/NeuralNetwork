@@ -1,3 +1,0 @@
-Running BackPropagation with the following cost function: Cross Entropy Cost Function
-Learning Rate: 0.3 | Momentum: 0.0 | Hidden Neurons: 100
-Accuracy: 8731/10000
