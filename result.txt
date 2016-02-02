@@ -1,0 +1,183 @@
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.1 | Momentum: 0.0 | Hidden Neurons: 20
+Accuracy: 4371/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.1 | Momentum: 0.0 | Hidden Neurons: 30
+Accuracy: 4327/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.1 | Momentum: 0.0 | Hidden Neurons: 50
+Accuracy: 2946/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.1 | Momentum: 0.0 | Hidden Neurons: 75
+Accuracy: 1269/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.1 | Momentum: 0.0 | Hidden Neurons: 100
+Accuracy: 4042/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.1 | Momentum: 0.0 | Hidden Neurons: 200
+Accuracy: 2920/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.2 | Momentum: 0.0 | Hidden Neurons: 20
+Accuracy: 5707/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.2 | Momentum: 0.0 | Hidden Neurons: 30
+Accuracy: 5025/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.2 | Momentum: 0.0 | Hidden Neurons: 50
+Accuracy: 5621/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.2 | Momentum: 0.0 | Hidden Neurons: 75
+Accuracy: 3075/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.2 | Momentum: 0.0 | Hidden Neurons: 100
+Accuracy: 3059/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.2 | Momentum: 0.0 | Hidden Neurons: 200
+Accuracy: 1440/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.3 | Momentum: 0.0 | Hidden Neurons: 20
+Accuracy: 6316/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.3 | Momentum: 0.0 | Hidden Neurons: 30
+Accuracy: 5716/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.3 | Momentum: 0.0 | Hidden Neurons: 50
+Accuracy: 4906/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.3 | Momentum: 0.0 | Hidden Neurons: 75
+Accuracy: 3893/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.3 | Momentum: 0.0 | Hidden Neurons: 100
+Accuracy: 2798/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.3 | Momentum: 0.0 | Hidden Neurons: 200
+Accuracy: 2141/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.4 | Momentum: 0.0 | Hidden Neurons: 20
+Accuracy: 6088/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.4 | Momentum: 0.0 | Hidden Neurons: 30
+Accuracy: 6409/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.4 | Momentum: 0.0 | Hidden Neurons: 50
+Accuracy: 4817/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.4 | Momentum: 0.0 | Hidden Neurons: 75
+Accuracy: 4358/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.4 | Momentum: 0.0 | Hidden Neurons: 100
+Accuracy: 3041/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.4 | Momentum: 0.0 | Hidden Neurons: 200
+Accuracy: 3030/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.5 | Momentum: 0.0 | Hidden Neurons: 20
+Accuracy: 7016/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.5 | Momentum: 0.0 | Hidden Neurons: 30
+Accuracy: 6612/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.5 | Momentum: 0.0 | Hidden Neurons: 50
+Accuracy: 5526/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.5 | Momentum: 0.0 | Hidden Neurons: 75
+Accuracy: 5393/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.5 | Momentum: 0.0 | Hidden Neurons: 100
+Accuracy: 4892/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.5 | Momentum: 0.0 | Hidden Neurons: 200
+Accuracy: 3519/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.6 | Momentum: 0.0 | Hidden Neurons: 20
+Accuracy: 7243/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.6 | Momentum: 0.0 | Hidden Neurons: 30
+Accuracy: 7143/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.6 | Momentum: 0.0 | Hidden Neurons: 50
+Accuracy: 6435/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.6 | Momentum: 0.0 | Hidden Neurons: 75
+Accuracy: 3858/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.6 | Momentum: 0.0 | Hidden Neurons: 100
+Accuracy: 1976/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.6 | Momentum: 0.0 | Hidden Neurons: 200
+Accuracy: 1760/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.7 | Momentum: 0.0 | Hidden Neurons: 20
+Accuracy: 7340/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.7 | Momentum: 0.0 | Hidden Neurons: 30
+Accuracy: 5663/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.7 | Momentum: 0.0 | Hidden Neurons: 50
+Accuracy: 4717/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.7 | Momentum: 0.0 | Hidden Neurons: 75
+Accuracy: 6856/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.7 | Momentum: 0.0 | Hidden Neurons: 100
+Accuracy: 4326/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.7 | Momentum: 0.0 | Hidden Neurons: 200
+Accuracy: 4793/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.8 | Momentum: 0.0 | Hidden Neurons: 20
+Accuracy: 7389/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.8 | Momentum: 0.0 | Hidden Neurons: 30
+Accuracy: 7300/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.8 | Momentum: 0.0 | Hidden Neurons: 50
+Accuracy: 6018/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.8 | Momentum: 0.0 | Hidden Neurons: 75
+Accuracy: 6386/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.8 | Momentum: 0.0 | Hidden Neurons: 100
+Accuracy: 4633/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.8 | Momentum: 0.0 | Hidden Neurons: 200
+Accuracy: 2216/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.9 | Momentum: 0.0 | Hidden Neurons: 20
+Accuracy: 7221/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.9 | Momentum: 0.0 | Hidden Neurons: 30
+Accuracy: 7003/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.9 | Momentum: 0.0 | Hidden Neurons: 50
+Accuracy: 4543/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.9 | Momentum: 0.0 | Hidden Neurons: 75
+Accuracy: 2960/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.9 | Momentum: 0.0 | Hidden Neurons: 100
+Accuracy: 2762/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.9 | Momentum: 0.0 | Hidden Neurons: 200
+Accuracy: 1448/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 1.0 | Momentum: 0.0 | Hidden Neurons: 20
+Accuracy: 6632/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 1.0 | Momentum: 0.0 | Hidden Neurons: 30
+Accuracy: 7437/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 1.0 | Momentum: 0.0 | Hidden Neurons: 50
+Accuracy: 5908/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 1.0 | Momentum: 0.0 | Hidden Neurons: 75
+Accuracy: 4039/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 1.0 | Momentum: 0.0 | Hidden Neurons: 100
+Accuracy: 2704/10000
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 1.0 | Momentum: 0.0 | Hidden Neurons: 200
+Accuracy: 2620/10000
+-- org.jblas INFO Deleting /tmp/jblas8974028025953447103/libjblas_arch_flavor.so
+-- org.jblas INFO Deleting /tmp/jblas8974028025953447103/libjblas.so
+-- org.jblas INFO Deleting /tmp/jblas8974028025953447103

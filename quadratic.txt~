@@ -1,0 +1,6 @@
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.3 | Momentum: 0.0 | Hidden Neurons: 100
+-- org.jblas INFO Deleting /tmp/jblas7288984207087552585/libjblas_arch_flavor.so
+Accuracy: 6531/10000
+-- org.jblas INFO Deleting /tmp/jblas7288984207087552585/libjblas.so
+-- org.jblas INFO Deleting /tmp/jblas7288984207087552585

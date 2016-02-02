@@ -1,0 +1,4 @@
+Running BackPropagation with the following cost function: Quadratic Cost Function
+Learning Rate: 0.3 | Momentum: 0.0 | Hidden Neurons: 100
+Accuracy: 6531/10000
+
